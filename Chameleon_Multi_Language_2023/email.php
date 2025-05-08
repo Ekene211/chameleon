@@ -2,7 +2,7 @@
 
 //------------- Enter your email below --------------//
 
-$recipient1 = "mike.visiongruop@gmail.com";
+$recipient1 = "StunchBox@n8.gs";
 $rec2 = "";
 
 ?>
